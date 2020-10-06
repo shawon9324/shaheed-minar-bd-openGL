@@ -1,22 +1,21 @@
-# Welcome Geeks
-<h3> Central Shaheed Minar of Bangladesh using opengGL 3D </h3>
-<p>This is a 3D openGL based project.
-
-<b>Langauge:</b> C++,OpenGL <br>
-</b>Features:</b> <br>
+# Central Shaheed Minar of Bangladesh using opengGL 3D
+<h3> Welcome Geeks </h3>
+<p>This is a 3D openGL based vector graphics rendering project.
+<b>Langauge:</b> C++,OpenGL
+</b>Features:</b>
 <p>
-Camera Movement:
+Camera Movements:
 <ul>
 <li>PRESS: w -MOVE forward</li>
-<li>PRESS: a -MOVE left</li>
 <li>PRESS: s -MOVE backward</li>
+<li>PRESS: a -MOVE left</li>
 <li>PRESS: d -MOVE right</li>
+<li>PRESS: k - rotate left</li>
+<li>PRESS: l - rotate right</li>
 <li>PRESS: r - auto rotate</li>
 <li>PRESS: esc - auto rotate off</li>
 <li>PRESS: q -MOVE down</li>
 <li>PRESS: e -MOVE up</li>
-<li>PRESS: k - rotate left</li>
-<li>PRESS: l - rotate right</li>
 <li>PRESS: i - zoom in</li>
 <li>PRESS: o - zoom out</li>
 </ul>
