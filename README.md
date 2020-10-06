@@ -2,9 +2,9 @@
 <h3> Welcome Geeks </h3>
 <p>This is a 3D openGL based vector graphics rendering project.</p>
 <p><b>Langauge:</b> C++,OpenGL</p>
-<p></b>Features:</b></p>
+<p><b>Features:</b></p>
+<p>Camera Movements:</p>
 <p>
-Camera Movements:
 <ul>
 <li>PRESS: w -MOVE forward</li>
 <li>PRESS: s -MOVE backward</li>
