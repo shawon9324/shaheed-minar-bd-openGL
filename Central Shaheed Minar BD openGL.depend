@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598648421 source:c:\users\shawo\desktop\cg project\central shaheed minar bd opengl\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+	<stdlib.h>
+
+1601981692 source:f:\diu archive\diu_academic files\l4t2\computer graphics lab\opengl project - cg\cg project\central shaheed minar bd opengl\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+	<stdlib.h>
+
