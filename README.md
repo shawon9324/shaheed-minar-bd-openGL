@@ -3,6 +3,7 @@
 <p>This is a 3D openGL based vector graphics rendering project.
 <b>Langauge:</b> C++,OpenGL
 </b>Features:</b>
+</p>
 <p>
 Camera Movements:
 <ul>
